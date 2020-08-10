@@ -1,7 +1,7 @@
 # XKCD Reader
 ## A nanoproject
 
-Try it here: [Codepen Link](https://codepen.io/hsrinivasulu/pen/abvPgMq)
+Try it here: [Codepen Link](https://codepen.io/meethari/pen/abvPgMq)
 
 ![Screenshot of app with XKCD 2308 loaded](/images/screenshot.png)
 
